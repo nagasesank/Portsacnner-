@@ -5,8 +5,8 @@ import socket
 serversocket=socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 serversocket.settimeout(5)
 
-host = input("please enter the ip address you want to sacan ")
-port = int(input("please enter the port you want to sacan "))
+host = input("please enter the ip address you want to scan ")
+port = int(input("please enter the port you want to scan "))
 
 def portscanner(port):
     if serversocket.connect_ex((host,port)):
