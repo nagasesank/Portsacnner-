@@ -1,5 +1,5 @@
 # Portscanner-
-A Automatic Portsacnne that will scan the ip adderess 
+A Automatic Portscanner that will scan the ip adderess 
 
 Before going to start the tool
 
