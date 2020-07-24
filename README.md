@@ -1,7 +1,7 @@
-# Portsacnner-
+# Portscanner-
 A Automatic Portsacnne that will scan the ip adderess 
 
-before going to start the tool
+Before going to start the tool
 
 1.Install pip3 install python-nmap into kali system.
 2.Then run the client file and enter the ip address you want to scan
