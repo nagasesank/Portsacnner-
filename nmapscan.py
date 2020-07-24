@@ -37,6 +37,6 @@ elif resp =='3':
     print(scanner.scaninfo())
     print("IP status :", scanner[ip_addr].state())
     print(scanner[ip_addr].all_protocols())
-    print("Open Port:", Scanner[ip_addr]['tcp'].keys())
+    print("Open Port:", Scanner[ip_addr]['tcp'].keys(),Scanner[ip_addr]['udp'].keys() )
 else resp >== '4':
     print("please enter a vaild option")    
