@@ -1,1 +1,0 @@
-A script for the github creation
